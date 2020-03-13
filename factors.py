@@ -1,5 +1,9 @@
 #Author: Jesus Leyva
 #This returns a list of all factors given a number
+#to update: 
+	#give user option to indicate the order of the list
+	#are these two numbers relatively prime?
+	#prime factorization
 
 n = input("Give me a whole number:")
 n = int(n)
